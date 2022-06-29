@@ -1,12 +1,6 @@
 @import "vars";
 
-.fa {
-  font-size: 16px;
-  text-align: center;
-  width: 32px;
-  padding: 8px 0;
-  margin-left: 8px;
-}
+
 .fa-angle-left {
   position: absolute;
   transform: rotate(-90deg);
@@ -24,7 +18,7 @@
   width: 100%;
 }
 
-.fa-caret-down {
+.fa-caret-down--product {
   color: $color_regular;
   font-size: 14px;
   position: absolute;
